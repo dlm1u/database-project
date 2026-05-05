@@ -99,9 +99,9 @@ REFRESH MATERIALIZED VIEW employee_workload_mv;
 ##  Процедуры и функции
 
 
-**get_order_total(order_id)** Возвращает общую стоимость заказа
-**get_employee_workload(emp_id)**  Возвращает количество активных заказов
-**update_order_status(id, status)**  Процедура смены статуса заказа
+* **get_order_total(order_id)** Возвращает общую стоимость заказа
+* **get_employee_workload(emp_id)**  Возвращает количество активных заказов
+* **update_order_status(id, status)**  Процедура смены статуса заказа
 
 ---
 
