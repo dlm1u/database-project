@@ -105,7 +105,7 @@ REFRESH MATERIALIZED VIEW employee_workload_mv;
 
 ---
 
-## 🧪 Тестирование
+## Тестирование
 
 Тестирование логики реализовано с использованием **pytest**.
 
