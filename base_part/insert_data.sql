@@ -1,4 +1,4 @@
-SET search_path TO logistics;
+SET search_path TO warehouse_logistics;
 
 
 INSERT INTO warehouse (name, location) VALUES
