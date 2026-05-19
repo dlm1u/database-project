@@ -115,7 +115,7 @@ INSERT INTO product (name,sku,price,supplier_id,quantity_on_hand) VALUES
 ('Маркер','MK-020',100,6,1000);
 
 
-INSERT INTO orders
+INSERT INTO "ORDER"
 (order_date,status,client_id,warehouse_id,employee_id,product_id,quantity)
 VALUES
 ('2025-02-10','delivered',1,1,1,1,2),
