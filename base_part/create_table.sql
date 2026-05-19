@@ -1,7 +1,7 @@
 
 -- создание схемы
-CREATE SCHEMA logistics;
-SET search_path TO logistics;
+CREATE SCHEMA warehouse_logistics;
+SET search_path TO warehouse_logistics;
 
 -- создание таблиц
 CREATE TABLE warehouse (
