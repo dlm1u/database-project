@@ -1,4 +1,4 @@
-SET search_path TO logistics;
+SET search_path TO warehouse_logistics;
 
 
 -- Запрос 1: Товары с низким остатком
